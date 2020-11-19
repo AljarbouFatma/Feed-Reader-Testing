@@ -45,5 +45,4 @@ Initial Entries:
 
 Feed container has at least 1 entry
 New Feed Selection:
-
 Feed content changes when new feed is selected
